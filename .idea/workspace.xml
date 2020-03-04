@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="937d2f63-eda8-49d2-8c7a-f8f53fe171c0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="190" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YZhXMVSvc3aWi3PHZMFawvvS9d" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.cau1 (1)">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="project_dat" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai3_list.Main1" />
+      <module name="project_dat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bai3_list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cau1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baitapvedatevasimpledate.cau1" />
+      <module name="project_dat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baitapvedatevasimpledate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cau1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baitapvestring.cau1" />
+      <module name="project_dat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baitapvestring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cau2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baitapvestring.cau2" />
+      <module name="project_dat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baitapvestring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main1" />
+      <item itemvalue="Application.cau1" />
+      <item itemvalue="Application.cau2" />
+      <item itemvalue="Application.cau1 (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.cau1 (1)" />
+        <item itemvalue="Application.cau2" />
+        <item itemvalue="Application.cau1" />
+        <item itemvalue="Application.Main1" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="937d2f63-eda8-49d2-8c7a-f8f53fe171c0" name="Default Changelist" comment="" />
+      <created>1583156063430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583156063430</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="83" key="#com.intellij.ide.util.MemberChooser" timestamp="1583244077911">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="83" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1583244077911" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1583326770959">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583326770959" />
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom" timestamp="1583326779748">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583326779748" />
+    <state width="1323" height="192" key="GridCell.Tab.0.center" timestamp="1583326779748">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583326779748" />
+    <state width="1323" height="192" key="GridCell.Tab.0.left" timestamp="1583326779748">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583326779748" />
+    <state width="1323" height="192" key="GridCell.Tab.0.right" timestamp="1583326779748">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583326779748" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1583325738970">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583325738970" />
+    <state x="390" y="0" width="586" height="728" key="find.popup" timestamp="1583290268379">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="0" width="586" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1583290268379" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/project_dat$Main__1_.ic" NAME="Main (1) Coverage Results" MODIFIED="1583159895504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bai2_list.*</FILTER>
+    </SUITE>
+  </component>
+</project>
